@@ -1,2 +1,0 @@
-INSERT OR REPLACE INTO version VALUES(408.2, '3.3.4', 'Palantir 3 está basado en contenido ofrecido en internet gratuitamente.\nPalantir 3 no almacena ningún contenido ni datos de los usuarios.\nPalantir 3 es gratuito y no debes pagar por él.', '', 'https://tutorialespalantir.blogspot.com/', '', '2025-05-01');
-DELETE FROM version WHERE version < 408.2;
