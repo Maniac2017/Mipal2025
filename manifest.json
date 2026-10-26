@@ -1,11 +1,11 @@
 {
   "latest_full": {
-    "version": 553,
+    "version": 554,
     "url": "https://raw.githubusercontent.com/Maniac2017/Mipal2025/main/moria_3_3_11.full.p4u",
-    "size": 36364987,
-    "sha256_enc": "1f3d86a979dff0af9631374a3a7d05d571b2e3523001fe313203e2beafde6e5d",
-    "sha256_plain": "7f46b32ef3a18c0a1977d635225deaaaf44fc6cee4eded416b70e988c1c135c4",
-    "created_at": 1792864066
+    "size": 36396719,
+    "sha256_enc": "ff2af60afd80be2efd5260d70d22a3fc34f919754556ef030d2d5483c1b2a162",
+    "sha256_plain": "351dcd96fe3d3b7d9abda3d012bb4a52ed1e4fa8d5cea769c8ab0e9044780282",
+    "created_at": 1793041218
   },
   "incrementals": []
 }
